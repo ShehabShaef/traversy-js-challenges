@@ -22,7 +22,7 @@ Some lessons/modules are not challenges, they are more like mini-lessons. I don'
 
 ## Running Tests
 
-In order for the Jest tests to run, you need to rename the test file to `[name].test.js`. For example, if you are working on the `hello-world` challenge, you need to rename the `hello-world-test.js` file to `hello-world.test.js`. This is because Jest looks for files with the `.test.js` extension.
+In order for the Jest tests to run, you need to rename the test file to `[name].test.js`. For example, if you are working on the `hello-world` challenge, you need to rename the `hello-world-test.js` file to `hello-world-test.js`. This is because Jest looks for files with the `.test.js` extension.
 
 Run the command `npm run test` from the root directory and it will run all the tests.
 
